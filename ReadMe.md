@@ -1,7 +1,6 @@
-H1b Sponsor Accross US
-================
-Qingqing Long,Lei Duan,Xiaochen Li,Nehal
-November 6, 2017
+<h1 align="center">H1b Sponsor Accross US</h1>
+<h3 align="center">Lei Duan,Qingqing Long,Xiaochen Li,Nehal</h3>
+<h4 align="center">November 6, 2017</h4>
 
 -   [Part I: Introduction](#part-i-introduction)
     -   [Objective](#objective)
