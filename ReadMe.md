@@ -1,9 +1,6 @@
-<center>
-"H1b Sponsor Accross US"
-================
-<center>
-"Qingqing Long,Lei Duan,Xiaochen Li,Nehal"
-<center>
+<center>H1b Sponsor Accross US</center>
+<center>Lei Duan,Qingqing Long,Xiaochen Li,Nehal</center>
+
 "November 6, 2017"
 
 Part I: Introduction
