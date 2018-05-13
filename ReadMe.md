@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 H1b Sponsor Accross US
 ================
 Qingqing Long,Lei Duan,Xiaochen Li,Nehal
@@ -14,11 +13,6 @@ November 6, 2017
     -   [Plot 3: H1b Visa Sponsored distribution accross US](#plot-3-h1b-visa-sponsored-distribution-accross-us)
     -   [Plot 4: top 10 employers in sponsoring h1b visas from 2011 to 2016](#plot-4-top-10-employers-in-sponsoring-h1b-visas-from-2011-to-2016)
     -   [Plot 5: top 10 employers in sponsoring h1b application for Fulltime positions](#plot-5-top-10-employers-in-sponsoring-h1b-application-for-fulltime-positions)
-=======
-<h1 align="center">H1b Sponsor Accross US</h1>
-<h3 align="center">Lei Duan,Qingqing Long,Xiaochen Li,Nehal</h3>
-<h4 align="center">November 6, 2017</h4>
->>>>>>> d5dff90844087215229c19bc104e3f8c9e188f75
 
 Part I: Introduction
 ====================
