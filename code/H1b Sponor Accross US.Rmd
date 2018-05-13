@@ -36,7 +36,7 @@ library(stringr)
 library(viridis)
 
 # load dataset
-h1b <- read.csv("h1b_kaggle.csv")
+h1b <- readRDS("h1b_kaggle.rds")
 
 # Determine No. of NAs
 sum(is.na(h1b)) # 232,426 NAs in total
