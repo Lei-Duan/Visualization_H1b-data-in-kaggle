@@ -2,13 +2,9 @@
 title: <center>"H1b Sponsor Accross US"
 author: <center>"Qingqing Long,Lei Duan,Xiaochen Li,Nehal"
 date: <center>"November 6, 2017"
-output: 
-  html_document:
-    theme: united
-    code_folding: hide
-    toc: true
-    toc_float: true
+output: md_document
 ---
+  
 # Part I: Introduction 
 
 ## Objective
